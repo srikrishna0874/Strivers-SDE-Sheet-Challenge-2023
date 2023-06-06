@@ -1,4 +1,4 @@
-https : // www.codingninjas.com/codestudio/problems/best-time-to-buy-and-sell-stock_8230746?challengeSlug=striver-sde-challenge
+//https : // www.codingninjas.com/codestudio/problems/best-time-to-buy-and-sell-stock_8230746?challengeSlug=striver-sde-challenge
 
 #include <bits/stdc++.h>
         int
