@@ -1,3 +1,5 @@
+// https://www.codingninjas.com/codestudio/problems/pascal-s-triangle_8230805?challengeSlug=striver-sde-challenge
+
 #include <bits/stdc++.h>
 
 vector<vector<long long int>> printPascal(int n)
